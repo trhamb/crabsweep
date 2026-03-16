@@ -10,10 +10,9 @@ def fetch_url(ep_num):
 
 	r = requests.get(url, headers=headers)
 
-	print("REQUEST DETAILS")
-    print(f"Response status: {r.status_code}")
-    print(f"Start: {q_start}, End: {q_end}")
-    print(f"Requested URL: {r.url}")
-    print(
-        "------------------------------------------------------------------------------------------------------------------"
-    )
+	print(f"Response status: {r.status_code}")
+	print(r.text)
+
+
+fetch_url(1)
+
