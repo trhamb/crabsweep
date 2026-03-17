@@ -1,0 +1,33 @@
+{
+  "episode_number": 4,
+  "qa_pairs": [
+    {
+      "question": "In 1976, Steve Jobs avenged his previous employer, Atari, by choosing a specific name for his new company. Why did he pick that name?",
+      "answer": "He chose the name Apple partly so it would appear before Atari alphabetically, and also because he liked apples."
+    },
+    {
+      "question": "The organisation '5th Pillar' prints a bank note to dissuade people of India from contributing to a rampant problem. What is this bank note's unique feature?",
+      "answer": "It is a zero-rupee banknote, with zero value printed on it, used to resist bribery and corruption."
+    },
+    {
+      "question": "The actor Ian McKellen once gave the Pet Shop Boys this piece of celebrity advice: 'When posing in a group photograph for the press, always stand on the extreme right.' Why did he give that advice?",
+      "answer": "Because standing on the group's extreme right puts you on camera left, so your name appears first in the photo caption and is less likely to be cut off."
+    },
+    {
+      "question": "A man looks up into the night sky. As a direct result, he goes on to kill dozens of people. Why?",
+      "answer": "He was taking an ancient Roman eye test: if he could distinguish the stars Mizar and Alcor in the Big Dipper, his eyesight was good enough to qualify as an archer."
+    },
+    {
+      "question": "In September 1970, an aerial photo was taken of the island of Cozo Alcatraz in Cuba. The photo shows a soccer field, tennis court, volleyball courts, and a basketball court. How did that provoke a major crisis?",
+      "answer": "The soccer field suggested Russians were on the island, because Cubans played baseball while Russians played soccer, triggering a national security scare."
+    },
+    {
+      "question": "The British engineer and manufacturer Matthew Boulton once remarked that it was very appropriate that he was born in the year 1728. Why?",
+      "answer": "Because 1728 is the number of cubic inches in a cubic foot, which amused him as an engineer."
+    },
+    {
+      "question": "10, 9, 8, 7, 6... 4, 3, 2, 1. When is a countdown like that used?",
+      "answer": "It is sometimes used around pyrotechnics or explosives, because 'five' is skipped since it sounds too much like 'fire'."
+    }
+  ]
+}

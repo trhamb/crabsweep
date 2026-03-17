@@ -1,0 +1,33 @@
+{
+  "episode_number": 10,
+  "qa_pairs": [
+    {
+      "question": "According to the Stress Management Center in North Carolina, USA, an estimated $700 million of US business was lost on May the 13th, 2005. The situation was three times worse in 2009, 2012, and 2015. Why is that?",
+      "answer": "Because May 13, 2005 was Friday the 13th, and 2009, 2012, and 2015 each had three Friday the 13ths."
+    },
+    {
+      "question": "A Californian car bears the registration plate, 710 ON. What type of car is it, and why?",
+      "answer": "It's a Tesla, because the vanity plate reads as 'NO OIL' when interpreted upside down/backwards."
+    },
+    {
+      "question": "Why did some British police forces start giving out free lollipops?",
+      "answer": "To keep people leaving nightclubs quiet so they wouldn't wake nearby residents."
+    },
+    {
+      "question": "In 2012, the athlete Maria Dmitrienko from Kazakhstan won a gold medal at an international shooting competition. However, a mistake at the medal ceremony caused her country's team to complain, so the ceremony was restaged. What went wrong?",
+      "answer": "They played the parody Kazakhstan national anthem from Borat instead of the real anthem."
+    },
+    {
+      "question": "Why might a company advertise a telephone number that is one digit longer than its actual number?",
+      "answer": "Because the extra digit is ignored after the call connects, letting them use a longer vanity number or word."
+    },
+    {
+      "question": "Metallica's tour took 11,592 days to do this. Khawla Al Romaithi did this in just over three and a half days. What was the feat?",
+      "answer": "Reaching all seven continents."
+    },
+    {
+      "question": "One weekend, I notice that there are four different days in the week that begin with the letter T. What are they?",
+      "answer": "Tuesday, Thursday, today, and tomorrow."
+    }
+  ]
+}

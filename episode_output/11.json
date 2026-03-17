@@ -1,0 +1,33 @@
+{
+  "episode_number": 11,
+  "qa_pairs": [
+    {
+      "question": "In 1935, the US bombed outside Hilo city, Hawaii for one week. Why?",
+      "answer": "To try to stop lava from Mauna Loa reaching Hilo by bombing the volcano's slopes and redirecting the flow."
+    },
+    {
+      "question": "What kind of company uses the \"10-8-42 rule\" in its advertising?",
+      "answer": "A watch manufacturer."
+    },
+    {
+      "question": "At the end of the 19th century, a certain tradition became popular in the US. This directly caused an increase in tetanus cases, and the cases were called 'patriotic tetanus'. What caused it?",
+      "answer": "Poorly constructed Fourth of July fireworks that injured bystanders with shrapnel, causing tetanus."
+    },
+    {
+      "question": "It's rumoured that the legendary soul singer Jackie Wilson consumed handfuls of tablets to make the show better. But what were the tablets for?",
+      "answer": "They were salt tablets, taken to make him sweat on stage."
+    },
+    {
+      "question": "From August the 8th to 11th, 2019, the largest convention of its type was held in Las Vegas. The attendance fee was 300 US dollars, cash. You couldn't buy tickets online beforehand, and no other form of payment was acceptable. What was the conference about, and why was it so inflexible?",
+      "answer": "It was DEF CON, a hacker conference, and it was cash-only to avoid creating a paper trail and to protect attendees from being targeted by state or federal investigations."
+    },
+    {
+      "question": "A sign outside a hotel room has a \"+1\" at the end of it. Why?",
+      "answer": "Because the room was 420, and the sign was changed to 419+1 to stop people stealing a '420' room sign."
+    },
+    {
+      "question": "Which distilled alcoholic drink, when added to ice, becomes something a child could consume legally without any ill effects?",
+      "answer": "Liquor, because liquor added to ice becomes 'liquorice'."
+    }
+  ]
+}

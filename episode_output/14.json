@@ -1,0 +1,33 @@
+{
+  "episode_number": 14,
+  "qa_pairs": [
+    {
+      "question": "The hypermarket chain Kaufland has an illustration on its packets of spaghetti. At the top, it shows a messy tangle of pasta noodles wrapped around a fork. However, the spaghetti at the bottom becomes perfectly straight. Why?",
+      "answer": "The straight spaghetti strands line up to form the barcode on the packaging."
+    },
+    {
+      "question": "Although it's a Christmas song now, Baby, It's Cold Outside was written by Frank Loesser to perform at dinner parties held at his New York home almost all year round. The song was written for a specific reason. What was it?",
+      "answer": "It was written as a gentle way to tell guests the dinner party was over and they should leave."
+    },
+    {
+      "question": "In World War II, 14 Royal Air Force airfields had the FIDO system fitted. It consisted of a tank, pipes, and pairs of rails that ran down the sides of the runway. It allowed British and Allied aircraft to land when enemy planes were not in the skies. What did FIDO do?",
+      "answer": "It burned fuel along the runway to burn off fog, making the runway visible for landing."
+    },
+    {
+      "question": "Santiago de Compostela Cathedral has been a place of pilgrimage since the Middle Ages. It takes eight people to swing its 80 kilogram incense burner on a 65 metre rope, making it one of the world's largest. Why do locals claim it was necessary in the past?",
+      "answer": "It was used to mask the stench and supposedly illness of pilgrims who had arrived after long journeys."
+    },
+    {
+      "question": "Early one morning in 2021, a German man fell down his stairs and broke his back. This led to him winning a large payout in court, despite the accident being nobody's fault. Why?",
+      "answer": "He was commuting from his bedroom to his home office, so the court ruled it counted as a work commute and he was entitled to compensation."
+    },
+    {
+      "question": "On Friday morning, Rachel takes the elevator to the fifth floor of her office building. When she returns the next day to retrieve a forgotten coat, the same journey takes about one minute longer, even though she performs two fewer actions. Why?",
+      "answer": "Saturday is the Sabbath, so the elevator was in Sabbath mode, automatically stopping and opening on every floor; Rachel didn't press any buttons."
+    },
+    {
+      "question": "According to the joke, what element should have the symbol Ah?",
+      "answer": "The element of surprise."
+    }
+  ]
+}
