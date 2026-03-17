@@ -55,7 +55,3 @@ Before finishing:
 {transcript_text}
 ---END---
 """
-
-prompt = PROMPT_TEMPLATE.replace("{transcript_text}", payload).replace(
-    "{episode_number}", "1"
-)
