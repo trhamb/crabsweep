@@ -7,6 +7,9 @@ def grab_transcript(page):
     soup = BeautifulSoup(page, "lxml")
     attributes = {"class": "transcript-data"}
     transcript = soup.find("div", attributes)
+
+    if transcript is None:
+        pass
     return transcript
 
 

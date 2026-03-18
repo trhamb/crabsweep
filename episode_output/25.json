@@ -1,0 +1,33 @@
+{
+  "episode_number": 25,
+  "qa_pairs": [
+    {
+      "question": "Software engineer Kent Mitchell was reviewing some code for a defense company. He informed them that the program had numerous memory leaks. They replied, \"Of course it leaks.\" Why was the issue never fixed?",
+      "answer": "Because it was software for a missile guidance system, and the missile would explode before the memory leak could ever matter."
+    },
+    {
+      "question": "In the reception area of the Australian Red Cross, there is a set of eight electronic thermometer-type displays that are regularly updated. The displays are labelled with two or three symbols from a selection of five. What motivation do they provide?",
+      "answer": "They show the current levels of the eight major blood types, motivating people to donate blood when supplies are low."
+    },
+    {
+      "question": "According to legend, in the Middle Ages, people often signed various papers and documents using a symbol and a certain action. This tradition partly lives on today. What was that symbol and action?",
+      "answer": "They signed with a cross and then kissed it."
+    },
+    {
+      "question": "In rural parts of the US, some people cause whimsical mischief by walking around the town armed with circular red stickers. How?",
+      "answer": "They stick red circles onto deer crossing signs to make the deer look like Rudolph the Red-Nosed Reindeer."
+    },
+    {
+      "question": "In 2000, soccer player Lee Todd was standing just in front of the referee. Once the referee started the match, Todd managed to break a football record just two seconds later. How?",
+      "answer": "He was immediately sent off after swearing, saying \"(bleep) me, that was loud!\" when the referee blew the whistle right next to him."
+    },
+    {
+      "question": "In 2015, officials from San Francisco's Public Utilities Commission confirmed that dogs had caused a car to be destroyed, nearly killing its owner. How?",
+      "answer": "Dog urine had accelerated corrosion at the base of a street lamp, causing the pole to fall onto the car."
+    },
+    {
+      "question": "In which film's end credits are four specific letters printed in a different typeface throughout?",
+      "answer": "Gattaca."
+    }
+  ]
+}

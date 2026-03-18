@@ -1,0 +1,33 @@
+{
+  "episode_number": 64,
+  "qa_pairs": [
+    {
+      "question": "1898's International Urban Planning Conference in New York urgently discussed a major public health issue that largely sorted itself out 30 years later. What was it?",
+      "answer": "The buildup of horse manure in the streets, which was solved by the arrival of cars."
+    },
+    {
+      "question": "During the creation of Carrie the musical, producer Fran Weissler wanted a dance number to have a 1950s feel. Her face fell when the director returned with designs showing teens wearing togas wandering around a temple. What happened?",
+      "answer": "She asked for something like Grease, but the director misinterpreted it as Greece."
+    },
+    {
+      "question": "While staying at a hotel in Indonesia, Sarah sees two emergency signs pointing in diametrically opposite directions. One has yellow and blue parts, while the other has red and white elements. What do they indicate?",
+      "answer": "They are tsunami and fire evacuation signs: the tsunami sign tells you to go upstairs, and the fire sign tells you to go downstairs."
+    },
+    {
+      "question": "Wallace and Barney went to the Vienna Opera Ball, a famous annual event in Austrian society. Wallace wore a white bow tie and had a great time. Barney wore a black bow tie and soon regretted it. Why?",
+      "answer": "White tie is the correct dress code for guests, while black tie is for staff, so Barney was mistaken for a waiter."
+    },
+    {
+      "question": "In the 1990s, a large facility in Perth, Australia added unnecessary bends and roundabouts to a local road, even though nothing was obscuring the direct route, and it was safe for its many visitors to drive on. What was the safety reason?",
+      "answer": "The road ran next to Perth Airport's runway, and the bends and roundabouts were added so pilots wouldn't mistake the straight road for the runway when landing."
+    },
+    {
+      "question": "For over 30 years, red deer in Czechia have refused to breed with other red deer a short distance away. Why is this, given that there's only forest and open land between them?",
+      "answer": "They still avoid crossing the former Czechia-Germany border because deer learned, and passed down, avoidance of the old electric fence that used to be there."
+    },
+    {
+      "question": "As a regular traveller, Esther puts a shoe in the room safe every time she checks into a new hotel room. Why?",
+      "answer": "So she won't forget valuables in the safe: when leaving, she'll notice a shoe is missing and remember to check the safe."
+    }
+  ]
+}
