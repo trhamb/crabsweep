@@ -5,7 +5,8 @@ from prompt import PROMPT_TEMPLATE
 import os
 
 
-def check_existing():
+def starting_episode():
+    starting_episode = 1
     files = os.listdir("./episode_output")
     saved_numbers = set()
     for file in files:
@@ -18,14 +19,22 @@ def check_existing():
         except ValueError:
             pass
 
+    if not saved_numbers:
+        return starting_episode
+    else:
+        starting_episode = max(saved_numbers) + 1
+
     return saved_numbers
+
+
+start = starting_episode()
 
 
 def main():
     while True:
         print("Working...")
-        next_episode = max(check_existing()) + 1
-        ep_ts = grab_transcript(fetch_episode(next_episode))
+
+        ep_ts = grab_transcript(fetch_episode(start))
 
         if ep_ts is None:
             break
@@ -33,15 +42,15 @@ def main():
         payload = turn_to_string(split_transcript(ep_ts))
 
         prompt = PROMPT_TEMPLATE.replace("{transcript_text}", payload).replace(
-            "{episode_number}", f"{next_episode}"
+            "{episode_number}", f"{start}"
         )
 
         raw_output = decipher_questions(prompt)
 
-        with open(f"episode_output/{i}.json", "w", encoding="utf-8") as f:
+        with open(f"episode_output/{start}.json", "w", encoding="utf-8") as f:
             f.write(raw_output)
 
-        print(f"Episode {next_episode} scraped")
+        print(f"Episode {start} scraped")
 
 
 # def main():
