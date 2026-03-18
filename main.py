@@ -21,16 +21,19 @@ def check_existing():
     return saved_numbers
 
 
-print(max(check_existing()))
-
-
 def main():
-    for i in range(20, 81):
+    while True:
         print("Working...")
-        payload = turn_to_string(split_transcript(grab_transcript(fetch_episode(i))))
+        next_episode = max(check_existing()) + 1
+        ep_ts = grab_transcript(fetch_episode(next_episode))
+
+        if ep_ts is None:
+            break
+
+        payload = turn_to_string(split_transcript(ep_ts))
 
         prompt = PROMPT_TEMPLATE.replace("{transcript_text}", payload).replace(
-            "{episode_number}", f"{i}"
+            "{episode_number}", f"{next_episode}"
         )
 
         raw_output = decipher_questions(prompt)
@@ -38,7 +41,24 @@ def main():
         with open(f"episode_output/{i}.json", "w", encoding="utf-8") as f:
             f.write(raw_output)
 
-        print(f"Episode {i} scraped.")
+        print(f"Episode {next_episode} scraped")
+
+
+# def main():
+#     for i in range(20, 81):
+#         print("Working...")
+#         payload = turn_to_string(split_transcript(grab_transcript(fetch_episode(i))))
+
+#         prompt = PROMPT_TEMPLATE.replace("{transcript_text}", payload).replace(
+#             "{episode_number}", f"{i}"
+#         )
+
+#         raw_output = decipher_questions(prompt)
+
+#         with open(f"episode_output/{i}.json", "w", encoding="utf-8") as f:
+#             f.write(raw_output)
+
+#         print(f"Episode {i} scraped.")
 
 
 # if __name__ == "__main__":

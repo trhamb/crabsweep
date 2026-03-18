@@ -9,8 +9,9 @@ def grab_transcript(page):
     transcript = soup.find("div", attributes)
 
     if transcript is None:
-        pass
-    return transcript
+        return None
+    else:
+        return transcript
 
 
 def split_transcript(t):
