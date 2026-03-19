@@ -2,8 +2,6 @@ from bs4 import BeautifulSoup
 
 
 def grab_transcript(page):
-    # Run HTML through BeautifulSoup and grab
-    # the transcript-data div contents.
     soup = BeautifulSoup(page, "lxml")
     attributes = {"class": "transcript-data"}
     transcript = soup.find("div", attributes)
